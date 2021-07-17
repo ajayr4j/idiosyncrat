@@ -25,6 +25,6 @@
  
 
 
-# Happy and open to collaborate for further ideas.
+# Happy and open to collaborate further.
 
 And, This is only a fun project :)
